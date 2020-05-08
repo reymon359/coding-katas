@@ -19,6 +19,8 @@ Desarrollar el código para cumplir con los tests
 
 ## Reglamento
 
+![rules-scoreboard](./rules-scoreboard.png)
+
 - El juego consiste en 10 frames (cuadros o rondas)
 - En un frame, el jugador tiene 2 rolls (lanzamientos) y puede tumbar hasta 10 bolos
 - La puntuación del frame es el número de bolos tumbados
