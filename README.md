@@ -1,6 +1,8 @@
-# GuideSmiths Kata Carlos Ble 08-05-2020
+# Normalize phrases kata
 
-Kata at work by Carlos Ble
+08-05-2020
+
+Remote Kata at GuideSmiths by Carlos Ble
 
 ## Team
 
