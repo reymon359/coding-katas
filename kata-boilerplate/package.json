@@ -1,0 +1,15 @@
+{
+  "name": "kata-boilerplate",
+  "author": "ramon morcillo @reymon359",
+  "version": "1.0.0",
+  "description": "Boilerplate made for katas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
