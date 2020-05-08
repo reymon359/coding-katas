@@ -14,10 +14,10 @@ Have Node.js installed
 
 - [Basic kata boilerplate](./kata-boilerplate)
 
-## Katas
+## Past katas
 
-- [bowling game](./2020-04-17-bowling-game)
-- [normalize phrases](./2020-04-17-bowling-game)
+- [17-04-2020 - Bowling game](./katas/bowling-game)
+- [08-05-2020 - Normalize phrases](./katas/normalize-phrases)
   
 ## Authors
 
@@ -27,7 +27,7 @@ See also the list of contributors of each kata on the team section.
 
 ## License
 
-This project is licensed under the MIT 
+This project is licensed under the MIT
 
 ## Acknowledgments
 
