@@ -41,3 +41,11 @@ Desarrollar el código para cumplir con los tests
   - Método getScore(): calcula la puntuación total al final del juego
 - Primero definid los tests siguiendo el reglamento
 - Una vez tengáis los tests definidos (fallando) escribid el código hasta que pasen todo
+
+## Videos
+
+- [Presentation](https://docs.google.com/presentation/d/1yt7lpmiHGJqirCbRr9JfsVVPIYg5S2GXTDxPgHn9hVg/present?slide=id.p)
+- [Introduction](https://youtu.be/6vWKSjv76hU)
+- Solutions:
+  - [Part 1](https://www.youtube.com/watch?v=KcXIH2Sl_1w)
+  - [Part 2](https://www.youtube.com/watch?v=jI3847tbfHE)
