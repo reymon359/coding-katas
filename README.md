@@ -4,7 +4,7 @@ A repository with kata boilerplates and past katas
 
 ## Getting Started
 
-Just make a copy of the [kata-boilerplate](./kata-boilerplate) project run `npm install` and start the kata.
+Just make a copy of the [kata-boilerplate](./kata-boilerplate) project, rename it and move to it, and then run `npm install` to start the kata.
 
 ### Prerequisites
 
