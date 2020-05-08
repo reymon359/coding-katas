@@ -7,7 +7,7 @@ Remote Kata at GuideSmiths by Carlos Ble
 ## Team
 
 - Ramon Morcillo
-- Matteo di Paolantonio,
+- Matteo di Paolantonio
 - Giorgio Grassini
 - Daniel Herrero
 
