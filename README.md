@@ -16,8 +16,8 @@ Have Node.js installed
 
 ## Past katas
 
-- [17-04-2020 - Bowling game](./past-katas/2020-04-17-bowling-game)
-- [08-05-2020 - Normalize phrases](./past-katas/2020-05-08-normalize-phrases)
+- [17-04-2020 - GuideSmiths Bowling game](./past-katas/2020-04-17-bowling-game)
+- [08-05-2020 - GuideSmiths Normalize phrases](./past-katas/2020-05-08-normalize-phrases)
   
 ## Authors
 
