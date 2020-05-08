@@ -1,0 +1,16 @@
+{
+  "name": "gs-kata-08-05-2020",
+  "version": "1.0.0",
+  "description": "kata Carlos Ble",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.0.1",
+    "require-all": "^3.0.0"
+  }
+}
